@@ -1,0 +1,8 @@
+{
+  "name": "Remix The Barber House Geneva",
+  "description": "The Barber House - Premier hair salon in Geneva, Switzerland (Confédération Centre, Rue de la Cité 7). Men\u0027s haircuts, beard styling, traditional shaving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
